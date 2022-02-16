@@ -1,0 +1,21 @@
+Step 1:  Start
+Step 2:  Declare Integer numb, divisor, remainder
+   
+Step 3:   Output "Enter the number: "
+Step 4:   Input numb
+Step 5:   Assign divisor = 3
+Step 6:   While num>=divisor
+        Assign num = num-divisor
+Step 7:   End
+Step 8:   Assign remainder = num
+Step 9:   If remainder==0
+        Output "The number is divisible by 3"
+Step 10:   False:
+        Output "The number is not divisible by 3"
+Step 11:  Stop 
+
+
+
+
+
+
