@@ -1,0 +1,5 @@
+I had completed Task-3 (Design A Landing Page On Any Genre Using Either Figma Or Adobe XD) through Figma.
+I took the topic of "online courses" with the website named "Foundation Class".
+In Figma, I took the desktop-sized layout and then I attached the background.
+And attached logo's from internet also created some logo's in the app which i have downloaded from play store.
+I had used rectangular frameworks for highlighting the options and I gave color to that .
