@@ -1,0 +1,16 @@
+def pal(num):
+    x = num
+    k = 0
+    while (num > 0):
+        r = num % 10
+        k = k * 10 + r
+        num = int(num / 10)
+
+    if x == k:
+        return True
+
+    return False
+
+
+num = int(input("Enter a number:"))
+print(pal(num))
