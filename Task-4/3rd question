@@ -1,11 +1,11 @@
-#creating a table with student details like roll no.,names and marks
+#creating a table with student details like roll no.,name and marks
 n=int(input('Enter No. of Students : '))
 a=[['roll no','name','marks']]
 for i in range(n):
     roll=input('Enter roll No : ')
-    studentname=input('Enter student name : ')
+    studentname=input('Enter name : ')
     marks=int(input('Enter marks : '))
-    a.append([roll,studentname,marks])
+    a.append([roll,name,marks])
 for i in range(len(a)):
     for j in range(len(a[i])):
         k=a[i][j]
